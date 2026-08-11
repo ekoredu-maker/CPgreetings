@@ -1,0 +1,12 @@
+GitHub Pages 업로드 체크리스트
+
+□ index.html
+□ manifest.webmanifest
+□ service-worker.js
+□ favicon.ico
+□ apple-touch-icon.png
+□ assets/icons 폴더 전체
+□ .nojekyll
+
+업로드 위치: 저장소 최상위(root)
+Pages 설정: main / (root)
